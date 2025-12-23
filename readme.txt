@@ -4,7 +4,7 @@ DESCRIPTION
 This portfolio website is a modern, performance-focused HTML-based personal website designed to showcase my professional profile, technical skills, services, and real-world projects.
 
 The site highlights my experience as a Front-End Developer and WordPress / Shopify Specialist, with a strong focus on responsive UI design, performance optimization, SEO best practices, and conversion-driven development. It serves as a central platform for potential clients, recruiters, and collaborators to understand my expertise and view my work.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 FEATURES
 
 Clean, modern, and responsive UI
@@ -18,7 +18,7 @@ Testimonials and client feedback section
 Contact and social media integration
 
 Built with scalable and maintainable code structure
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 TECHNOLOGIES USED
 Front-End
 
@@ -37,8 +37,7 @@ Modern CSS utilities
 Optimized SVG icons
 
 Lightweight JavaScript utilities
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+------------------------------------------------------------------------------------------------------------------------------
 USE CASE
 
 This portfolio is intended for:
@@ -50,7 +49,7 @@ Job applications (Frontend / WordPress / Shopify roles)
 Client presentations
 
 Personal branding and online presence
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 CUSTOMIZATION
 
@@ -67,7 +66,7 @@ Add or remove sections as required
 Extend functionality using JavaScript or CMS integration
 
 Basic knowledge of HTML, CSS, and JavaScript is sufficient to customize the site.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 PROJECT STRUCTURE
 /css        → Stylesheets
@@ -86,8 +85,7 @@ Mobile-first responsive design
 SEO-friendly headings and metadata
 
 Fast loading and accessibility-conscious UI
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+------------------------------------------------------------------------------------------------------------------------------
 DEPLOYMENT
 
 This website can be deployed easily on:
@@ -101,15 +99,14 @@ Vercel
 Any static hosting provider
 
 No server-side configuration is required.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+-----------------------------------------------------------------------------------------------------------
 AUTHOR
 
 Muhammed Riyash
 Front-End & WordPress / Shopify Developer
 
 This portfolio, its structure, design customizations, and content are authored and maintained by Muhammed Riyash.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
 
 CONTACT
 
@@ -120,7 +117,7 @@ Name: Muhammed Riyash
 Role: Front-End & WordPress / Shopify Developer
 
 Email: thisismd.riyash@gmail.com
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 LICENSE
 
@@ -128,4 +125,4 @@ LICENSE
 
 This portfolio website and its contents are intended for personal use and professional representation.
 You are not permitted to copy, resell, or redistribute this project without prior permission.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
